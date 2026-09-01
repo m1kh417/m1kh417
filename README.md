@@ -1,1 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=_#154734&height=300&section=header&text=capsule%20render&fontSize=90" />
+<p align="right"> 
+<img src="https://capsule-render.vercel.app/api?&type=slice&color=_#154734/>
+</p>
