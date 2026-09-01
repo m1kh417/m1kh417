@@ -1,3 +1,3 @@
-<p align="right"> 
-<img src="https://capsule-render.vercel.app/api?&type=slice&color=#154734/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
