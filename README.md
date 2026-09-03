@@ -1,40 +1,62 @@
 <div id="main_text" align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=00ff00&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1600&height=140&lines=%22Programming+isn%27t+about+what+you+know;+but+what+you+can+figure+out%22" width="80%" alt="Typing SVG" />
+
+<br><br>
+
+### *Hi! My name is Mikhail Javier!* 😄
+
 </div>
 
----
+<br><br>
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF6M3FhZmxlNmJkZGcxbXRpZTd6c3pnZGtjZGdjbW15aXNjemlpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XKSPsk67cnCw0/giphy.gif" alt="GIF" width="400px" />
 
-<p>
 📚 BSE @ Uninter • Back-end dev • Data Analyst • MLOps • APIs<br><br>
-💻 Proggaming Languages: 🐍 Python • ☕ Java • 🔩 Rust<br><br>
-🎮 Gamming entusiast<br><br>
+💻 Programing Languages: 🐍 Python • ☕ Java • 🔩 Rust<br><br>
+🎮 Gaming enthusiast<br><br>
 🎶 Music and art lover<br><br>
 📖 Always Reading<br><br>
-<em>Let' share some stuff!</em>
-</p>
+<em>Let' build some stuff!</em>
 
-<!-- display the social media buttons in your README -->
+<br><br>
+<div align="center">
+<a href="mikhjavierss@yahoo.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+<a href="linkedin.com">
+  <img alt="linkendin" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=red"
+</a>
+<a href="linkedin.com">
+  <img alt="linkendin" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"
+</a>
+  <a href="linkedin.com">
+  <img alt="linkendin" src="https://img.shields.io/badge/Twitter/X-white?style=for-the-badge&logo=x&logoColor=blue"
+</a>
+</a>
+  <a href="linkedin.com">
+  <img alt="linkendin" src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=dev.to&logoColor=purple"
+</a>
+</div>
+<hr>
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
+<h3>Language and Tools 🛠️⚙️</h3>
+<br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,docker,mysql,aws,html,css,javascript,bash,python,r,anaconda,java,"/>
+  </a>
+</div>
+
+<hr>
+
+<h3>My Status 🔥</h3>
+<br>
+
+<img src="https://github-stats-extended.vercel.app/api?username=m1kh417&rank_icon=github&custom_title=My%20Github&show_icons=true&include_all_commits=true&theme=dark">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=m1kh417&layout=compact&langs_count=4&theme=dark">
+
+<hr>
 
 
-<!-- links to social media icons -->
-<!-- no need to change these -->
 
-<!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<br clear="both"/>
